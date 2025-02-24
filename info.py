@@ -52,7 +52,7 @@ NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False)) # True if you want n
 # MongoDB information 
 # https://youtu.be/qFB0cFqiyOM?si=QGuFSZ7qhxl4VTrA
 
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://NG:<NG>@cluster0.rc0sp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://NGG:NGG@ng.o6y6u.mongodb.net/?retryWrites=true&w=majority&appName=NG                                                               ")
 DATABASE_NAME = environ.get('DATABASE_NAME', "NG")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'NG')
 
