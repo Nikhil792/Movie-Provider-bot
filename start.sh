@@ -4,9 +4,9 @@ then
   git clone https://github.com/Nikhil792/Movie-Provider-bot/tree/main
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /TheMovieProviderBot
+  git clone $UPSTREAM_REPO /ThorAutoFilter2Bot
 fi
-cd /TheMovieProviderBot
+cd /ThorAutoFilter2Bot
 pip3 install -U -r requirements.txt
-echo "Starting TheMovieProviderBot...."
+echo "Starting ThorAutoFilter2Bot...."
 python3 bot.py
