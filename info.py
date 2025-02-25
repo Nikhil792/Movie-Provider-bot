@@ -132,7 +132,7 @@ if HAS_SSL:
 else:
     URL = "http://{}/".format(FQDN)
 BANNED_CHANNELS = list(set(int(x) for x in str(getenv("BANNED_CHANNELS", "")).split())) 
-OWNER_USERNAME = "LazyDeveloper"
+OWNER_USERNAME = "Trexowner"
 
 
 # add premium logs channel id
