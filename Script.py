@@ -445,5 +445,5 @@ BOT WORKING PROPERLY"""
     DEVELOPER_TXT = """
 special Thanks To Blank ❤️ Developer -
 
--Dev [Owner of this bot ]<a href='https://t.me/ultroidxTeam'>Blank</a>
+-Dev [Owner of this bot ]<a href='https://t.me/Trexowner'>Blank</a>
 """
