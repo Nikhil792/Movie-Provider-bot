@@ -52,9 +52,9 @@ NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", True)) # True if you want no
 # MongoDB information 
 # https://youtu.be/qFB0cFqiyOM?si=QGuFSZ7qhxl4VTrA
 
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://NGG:NGG@ng.o6y6u.mongodb.net/?retryWrites=true&w=majority&appName=NG                                                               ")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://NGG:NGG@ng.o6y6u.mongodb.net/?retryWrites=true&w=majority&appName=NG"                                                               ")
 DATABASE_NAME = environ.get('DATABASE_NAME', "NGG")
-COLLECTION_NAME = environ.get('COLLECTION_NAME', 'NGG')
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'THOR 2.O db')
 
 # Verify/token system
 VERIFY = bool(environ.get('VERIFY', False)) # Verification On ( True ) / Off ( False )
